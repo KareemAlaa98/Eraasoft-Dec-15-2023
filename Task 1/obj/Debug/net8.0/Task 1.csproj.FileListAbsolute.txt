@@ -1,0 +1,14 @@
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\bin\Debug\net8.0\Task 1.exe
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\bin\Debug\net8.0\Task 1.deps.json
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\bin\Debug\net8.0\Task 1.runtimeconfig.json
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\bin\Debug\net8.0\Task 1.dll
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\bin\Debug\net8.0\Task 1.pdb
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\obj\Debug\net8.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfoInputs.cache
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfo.cs
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\obj\Debug\net8.0\Task 1.csproj.CoreCompileInputs.cache
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\obj\Debug\net8.0\Task 1.dll
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\obj\Debug\net8.0\refint\Task 1.dll
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\obj\Debug\net8.0\Task 1.pdb
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\obj\Debug\net8.0\Task 1.genruntimeconfig.cache
+D:\Kareem\Web Development\Eraasoft\Tasks Lecture 7\Task 1\obj\Debug\net8.0\ref\Task 1.dll
